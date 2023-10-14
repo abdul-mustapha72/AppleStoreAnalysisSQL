@@ -170,6 +170,14 @@ from (
 	) as a
 WHERE
 	a.rank = 1
-    
 
+-- THE FOLLOWING INSIGHTS WERE GAINED FROM THE ANALYSIS
+-- 1.	paid apps have better ratings 
+-- 2.	apps supporting between 10 and 30 languages have better ratings 
+	--as the apps tends to be more diverse and open to more users from different places aroundd the globe
+-- 3.	Finance and book apps have lowest ratings which shows users have low interest in these categories 
+-- 4.	apps with longer descriptions have better ratings which portrays apps detailed description helps users understand the app much more better  
+-- 5.	new apps should aim for a rating of about 3.5 in order to standout from other apps.
+-- 6.	Games and entertainment category have high volume of apps suggesting the market may be saturated and there will be
+	-- high competition. It also shows there is high demand for this category 
     
